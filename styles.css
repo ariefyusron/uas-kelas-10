@@ -17,3 +17,44 @@
   color: #fff;
   font-size: 48px;
 }
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 69px;
+}
+
+.main {
+  width: 68%;
+}
+
+.row-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column-1 {
+  background-color: #C4C4C4;
+  width: 32%;
+  height: 228px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-2 {
+  margin-top: 36px;
+}
+
+.column-4 {
+  width: 66%;
+}
+
+.column-6 {
+  width: 100%;
+}
+
+.side {
+  background-color: green;
+  width: 30%;
+}
