@@ -55,6 +55,9 @@
 }
 
 .side {
-  background-color: green;
+  background-color: #C4C4C4;
   width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
