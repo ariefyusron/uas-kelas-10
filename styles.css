@@ -1,0 +1,19 @@
+/* body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+} */
+
+.header {
+  background-color: #C4C4C4;
+  width: 100%;
+  height: 166px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title-header {
+  color: #fff;
+  font-size: 48px;
+}
