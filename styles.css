@@ -61,3 +61,16 @@
   justify-content: center;
   align-items: center;
 }
+
+.image {
+  height: 500px;
+  width: 100%;
+}
+
+.wrap-carousel {
+  margin-top: 38px;
+}
+
+.body-content {
+  padding: 0 37px
+}
