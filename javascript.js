@@ -1,6 +1,6 @@
 const username = document.getElementById('username')
 const password = document.getElementById('password')
-const buttonLogin = document.getElementById('login')
+const buttonLogin = document.getElementById('buttonLogin')
 const message = document.getElementById('message')
 
 function login() {
